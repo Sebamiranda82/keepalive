@@ -4,6 +4,7 @@ const https = require('https');
 const APPS = [
   'https://cfb-servidor.onrender.com/health',
   'https://srifactu-servidor.onrender.com/health',
+  'https://herrajes.anuarsistemas.com',
 ];
 
 function ping(url) {
